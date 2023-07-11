@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F400FF15&center=true&vCenter=true&repeat=false&width=435&lines=Oh%2C+hey.;Ruuka's+Profile)](https://git.io/typing-svg)
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F400FF15&center=true&vCenter=true&repeat=false&width=435&lines=Oh%2C+hey.;Ruuka's+Profile)](https://git.io/typing-svg)</div>  
 
 ### <div align="center">Ruuka, 18 | Coding since 2012</div>  
   
