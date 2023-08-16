@@ -17,6 +17,26 @@
 
 <br/>  
 
+### <div align="center">Future projects</div>  
+  
+
+- 🔍 Tool to do OSINT (search and save leaked DB)  
+  
+
+- 🕵 Website like Epieos, osint.industries or even search.0t (but not thatttt advanced cuz it was mythic)
+  
+
+- 📱 Planning management - App + Website connected on a DB
+
+  
+- 🛠️ If I Play Valo again, a tool to help viewing live things 
+
+  
+- 🤦 Stop being cringe and get buffed
+  
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -114,4 +134,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
