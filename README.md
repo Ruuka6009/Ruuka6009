@@ -38,7 +38,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set (Not a pro, just know some bases.)
 <table><tr><td valign="top" width="33%">
 
 
