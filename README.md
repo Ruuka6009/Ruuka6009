@@ -9,28 +9,13 @@
 - 💔 I’m currently learning C++  
   
 
-- ❓ Just speak to me  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Just speak to me
   
 
 <br/>  
 
 ### <div align="center">Future projects</div>  
   
-
-- 🔍 Tool to do OSINT (search and save leaked DB)  
-  
-
-- 🕵 Website like Epieos, osint.industries or even search.0t (but not thatttt advanced cuz it was mythic)
-  
-
-- 📱 Planning management - App + Website connected on a DB
-
-  
-- 🛠️ If I Play Valo again, a tool to help viewing live things 
-
   
 - 🤦 Stop being cringe and get buffed
   
@@ -113,13 +98,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ruuka6009&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=vc8x3f0z6jupqll1jl2p2ax9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
